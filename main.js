@@ -6,5 +6,5 @@ function soma (num1, num2){
         return lado**2;
     }
         let areatrapezio = function(teste1, teste2, teste3){
-    return teste1+teste2*teste3/2
+    return (teste1+teste2*teste3/2)
         }
